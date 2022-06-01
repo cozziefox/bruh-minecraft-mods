@@ -1,0 +1,8 @@
+If you already know how to install forge you can ignore this.
+
+**DO NOT PUT THE FORGE JAR FILE IN YOUR MODS FOLDER!**
+
+Run the jar file and press Install client. Wait for it to complete the installation, then restart your Minecraft launcher and select the forge 1.16.5 version.
+
+IF THE JAR FILE DOESN'T RUN -- you probably need to install Java
+IF FORGE DOESN'T INSTALL -- a popup likely came up already explaining this, but just incase you're dumb dumb idoit, you need to run a vanilla version of 1.16.5 before installing forge.
