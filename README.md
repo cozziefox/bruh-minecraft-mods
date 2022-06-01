@@ -1,2 +1,2 @@
-# bruh-minecraft-mods
+# bruh minecraft
 bruh minecraft
