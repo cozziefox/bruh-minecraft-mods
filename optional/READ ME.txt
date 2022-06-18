@@ -2,5 +2,7 @@ These are optional mods that you can choose to include in your mods folder. They
 
 Better Foliage : Adds enhancements to trees, grass, cacti, and other plants in the game along with some other misc ambient effects. Has a feature which makes logs round that is on by default, and although it is configurable to be turned off I chose to leave it out of the required mods list to avoid hassle.
 
+Kotlin For Forge : A Library mod that Better Foliage requires to work.
+
 Optifine : You should definitely know what this is, but in case you don't, it is a performance enhancing mod that also adds small configurable details involving rendering. If you wanna play with shaders (NOT RECOMMENDED) use this. If you want it purely for the FPS boost, DO NOT USE THIS! The default mod list already comes with Sodium, a much MUCH better performance enhancement mod. (They aren't compatible)
 
